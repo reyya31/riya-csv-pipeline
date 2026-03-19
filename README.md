@@ -100,11 +100,3 @@ boto3
 pandas
 ```
 ```
-
----
-
-Copy this into your `README.md` file, then run:
-```
-git add README.md
-git commit -m "add detailed README"
-git push
